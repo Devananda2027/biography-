@@ -1,4 +1,5 @@
 Biography Styling Using CSS
+
 This project demonstrates how to style a biography webpage using HTML and CSS. It includes a structured layout with a name header, profession title, descriptive text, and a contact information section.
 
 Key Styling Features:
